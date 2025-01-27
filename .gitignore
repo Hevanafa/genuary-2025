@@ -1,0 +1,7 @@
+backup/
+lib/
+ray4laz-5.5/
+dist/
+*.exe
+*.dll
+*.a
